@@ -1,0 +1,15 @@
+You can ask me download links with this command 
+`~d <short_anime_name> <episode>`   <a:vibe_cat_2:876885499258765375>
+
+**Available Animes**
+`J`u`J`utsu `K`aisen (jjk)
+`B`y `T`he `G`race `O`f `G`ods (btgog)
+`I`to `J`unji `C`ollection (ijc)
+`K`atsugeki/`T`ouken `R`anbu (ktr)
+`M`airimashita! `I`ruma-`K`un Season `1` (mik1)
+`M`airimashita! `I`ruma-`K`un Season `2` (mik2)
+`T`oilet `B`ound `H`anako-`K`un (tbhk)
+`T`he `M`illionaire `D`etective Balance: Unlimited (tmd)
+
+Here is an example
+`~d jjk 7`
