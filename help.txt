@@ -13,6 +13,7 @@ You can ask me download links with this command
 `P`latinum `E`nd (pe)
 `B`lue `P`eriod (bp)
 `M`ieruko-`C`han (mc)
+`S`PY`xF`AMILY (sxf)
 
 Here is an example
 `~d jjk 7`
